@@ -1,0 +1,65 @@
+body{
+    background-color:blue;
+    color: #fff;
+
+}
+.main
+{
+    display: flex;
+    margin-top: 10em;
+    
+}
+.a
+{
+    width: 50%;
+    height: 60vh;
+    background-image: url(fly.png);
+    background-repeat: no-repeat;
+    background-size: cover ;
+
+    
+}
+.a h1
+{
+    /* margin-top: 3em; */
+    margin-top: 3em;
+    margin-left: 7.5em;
+}
+.a button{
+    /* margin-top: 3em; */
+    margin-left: 8cm;
+    width: 120px;
+    height: 6vh;
+    font-size: 15px;
+    border: 1px solid white;
+    /* padding: 5px; */
+    background-color: transparent;
+    color:#fff;
+
+}
+.b
+{
+    width: 50%;
+    height: 60vh;
+    font-size: 20px;
+    background-image: url(flyy.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.b h2
+{
+    margin-top: 3cm; 
+    margin-left: 7.5cm;
+}
+.b button{
+     /* margin-top: 3em;  */
+    margin-left: 8cm;
+    width: 120px;
+    height: 6vh;
+    font-size: 15px;
+    border: 1px solid white;
+    padding: 5px;
+    background-color: transparent;
+    color:#fff;
+} 
